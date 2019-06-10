@@ -7,7 +7,7 @@ $ldap_username = 'shrikant.jadhav@harbinger.in';
 	$dn = "DC=harbinger,DC=in";
 	//$ldaphost = "harbinger.in";  
 	//$ldaphost = "ldap://192.168.2.228";  
-
+    // below are the details
 	$ldaphost = "ldap://10.0.0.2";
 	$ldapport = 389;
 	
